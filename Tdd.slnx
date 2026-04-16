@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Tdd.TimeBookings.Tests/Tdd.TimeBookings.Tests.csproj" Id="c92c3fcc-72d0-4a72-8686-e77a7715f2ef" />
+  <Project Path="Tdd.TimeBookings/Tdd.TimeBookings.csproj" />
+</Solution>
